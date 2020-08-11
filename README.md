@@ -1,5 +1,5 @@
 # wiki-template
-Template for Wiki in markdown
+Template Wiki in markdown
 
 First Page:
 
