@@ -8,9 +8,9 @@ First Page:
 ### Author name 
 
 *  [Project proposal - Proposta do projeto]()
-*  [1º Seminário]()
-*  [2º Seminário]()
-*  [Banca Final]()
-*  [Apresentação_Final.pptx]()
-*  [Apresentação_Final_.pdf]()
-*  [Artigo]()  
+*  [Content - Conteudo]()
+*  [Content - Conteudo]()
+*  [Final]()
+*  [Presentation-Apresentação.pptx]()
+*  [presentation-Apresentação.pdf]()
+*  [Article-Artigo]()  
